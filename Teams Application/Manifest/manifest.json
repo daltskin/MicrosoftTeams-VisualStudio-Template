@@ -1,0 +1,161 @@
+{
+  "$schema": "https://statics.teams.microsoft.com/sdk/v1.0/manifest/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.0",
+  "version": "1.1.0",
+  "id": "",
+  "packageName": "",
+  "developer": {
+    "name": "",
+    "websiteUrl": "",
+    "privacyUrl": "",
+    "termsOfUseUrl": ""
+  },
+  "name": {
+    "short": "",
+    "full": ""
+  },
+  "description": {
+    "short": "",
+    "full": ""
+  },
+  "icons": {
+    "outline": "app_icon20x20.png",
+    "color": "app_icon96x96.png"
+  },
+  "accentColor": "#60A18E",
+  "bots": [
+    {
+      "botId": "",
+      "scopes": [
+        "team",
+        "personal"
+      ],
+      "commandLists": [
+        {
+          "scopes": [
+            "team"
+          ],
+          "commands": [
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "scopes": [
+            "personal"
+          ],
+          "commands": [
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "",
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeExtensions": [
+    {
+      "botId": "",
+      "scopes": [
+        "personal",
+        "team"
+      ],
+      "canUpdateConfiguration": true,
+      "commands": [
+        {
+          "id": "",
+          "description": "",
+          "title": "",
+          "initialRun": true,
+          "parameters": [
+            {
+              "title": "",
+              "name": "",
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": []
+}
